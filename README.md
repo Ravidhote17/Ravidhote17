@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/ravidhote21" target="blank"><img src="https://img.shields.io/twitter/follow/ravidhote21?logo=twitter&style=for-the-badge" alt="ravidhote21" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ravidhote17.github.io/Portfolio/](https://ravidhote17.github.io/Portfolio/)
-
 - 📫 How to reach me **ravidhote101@gmail.com**
 
 - ⚡ Fun fact **There is no fun fact about me**
