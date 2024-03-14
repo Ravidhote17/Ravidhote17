@@ -1,75 +1,27 @@
-<h1 align="center">Hi 👋, I'm Abhishek Yadav </h1>
+d<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0f/68/48/0f6848b108482b73e39433816745dc32.jpg">
+<h1 align="center">Hi 👋, I'm Ravi Dhote</h1>
+<h3 align="center">A aspiring Full Stack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://pics.craiyon.com/2023-11-20/lJPiREGMQGyQ6uwZgZ24zA.webp">
 
 
-<p  align="top">
- <a href="https://app.daily.dev/Abhishek9503"><img src="https://api.daily.dev/devcards/612db3c2a6bb4916824419a215f49bcd.png?r=xmo" width="260" alt="Abhishek Yadav's Dev Card"/></a>
- <img src="https://github.com/Abhishek9503/Abhishek9503/assets/103676667/6569bc32-2904-44ed-a75e-3da0bffc4315" width="260" height="380" style="border-radius: 50px;"  alt="Abhishek Yadav's Dev Card"/>
-  <img src="https://github.com/Abhishek9503/Abhishek9503/assets/103676667/24369670-e7ed-4789-a240-559b84cc178d)" width="260" height="380" style="border-radius: 50px;" alt="Abhishek Yadav's Dev Card"/> 
-<!--  Abhishek Yadav -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravidhote17&label=Profile%20views&color=0e75b6&style=flat" alt="ravidhote17" /> </p>
+
+<p align="left"> <a href="https://twitter.com/ravidhote21" target="blank"><img src="https://img.shields.io/twitter/follow/ravidhote21?logo=twitter&style=for-the-badge" alt="ravidhote21" /></a> </p>
+
+- 📫 How to reach me **ravidhote101@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ravidhote21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravidhote21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ravi-dhote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-dhote" height="30" width="40" /></a>
+<a href="https://instagram.com/ravi.dhote_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi.dhote_" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9503&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek9503" /> </p>
+<p style="background-color:black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravidhote17&show_icons=true&locale=en&layout=compact" alt="ravidhote17" /></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/abhishek-yadav17/)](https://www.linkedin.com/in/abhishek-yadav17/)
-[![Instagram Badge](https://img.shields.io/badge/-abhishek__yadav17_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/abhishek__yadav17_/)](https://www.instagram.com/abhishek__yadav17_/)
-[![Hashnode Badge](https://img.shields.io/badge/-@Abhishek-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://hashnode.com/@Abhishek)](https://hashnode.com/@Abhishek)
-[![Gmail Badge](https://img.shields.io/badge/-abhishek.pub9503@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.pub9503@gmail.com)](mailto:abhishek.pub9503@gmail.com)
-[![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://abhishek17-portfolio.netlify.app/)](https://abhishek17-portfolio.netlify.app/)
-[![Youtube Badge](https://img.shields.io/badge/-hardiktecvlogs6630-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@hardiktecvlogs6630)](https://www.youtube.com/@hardiktecvlogs6630)
+<p style="background-color:black;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravidhote17&show_icons=true&locale=en" alt="ravidhote17" /></p>
 
-
-
-## ⚡ Technologies
-
-### Language :
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-
-
-### Libraries & Framework :
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Tailwind%20-%23D00000.svg?logo=Tailwind&logoColor=white"></a>
-<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-
-### DevOps & Cloud Tools:
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
-
-## 💰 Support
-<p>
-<a href='https://ko-fi.com/abhishek9503#paypalModal' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-
-## 📈 Stats
-<p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek9503&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9503&theme=tokyonight" />
-</p>
-
-## ⚡Hacktoberfest 
-
-
-[![An image of @abhishek9503's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek9503)](https://holopin.io/@abhishek9503)
- 
+<p style="background-color:black;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravidhote17&" alt="ravidhote17" /></p>
