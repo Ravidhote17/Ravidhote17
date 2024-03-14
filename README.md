@@ -1,4 +1,4 @@
-d<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0f/68/48/0f6848b108482b73e39433816745dc32.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0f/68/48/0f6848b108482b73e39433816745dc32.jpg">
 <h1 align="center">Hi 👋, I'm Ravi Dhote</h1>
 <h3 align="center">A aspiring Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://pics.craiyon.com/2023-11-20/lJPiREGMQGyQ6uwZgZ24zA.webp">
