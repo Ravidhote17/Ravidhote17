@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=ravidhote17&label=Visitors&&style=for-the-badge" alt="" /> 
 </p>
 
-## 🌐Connect with me:
+## 🌐 Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-dhote-4a959825a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ravidhote101@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ravidhote21?t=FfJg8UJczGD9XFtWg4p0nA&s=09)
