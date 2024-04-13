@@ -4,7 +4,10 @@
 ## 👋About Me:
 -🔭 Currently, I am working on improving my **Programming skills**.<br>- 🌱 I am currently learning **Backend Development**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>- ⚡ Fun Fact: There is no fun fact about **me**.
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravidhote17&label=Profile%20views&color=0e75b6&style=flat" alt="ravidhote17" /> </p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ravidhote17&label=Visitors&&style=for-the-badge" alt="" /> 
+</p>
 
 ## 🌐Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-dhote-4a959825a/)
