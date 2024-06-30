@@ -2,7 +2,7 @@
 <img align="centre" alt="Coding" src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif">
 
 ## 👋About Me:
--🔭 Currently, I am working on improving my **Programming skills**.<br>- 🌱 I am currently learning **Backend Development**.<br>- 🤝 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br> - 📫 You can reach me at **ravidhote101@gmail.com** <br>-⚡Fun Fact: I am Boring.
+-🔭 Currently, I am working on improving my **Programming skills**.<br>- 🌱 I am currently learning **Backend Development**.<br>- 🤝 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br> - 📫 You can reach me at **ravidhote101@gmail.com** <br>-⚡Fun Fact: I am **Boring**.
 <hr>
 
 <p align="left"> 
