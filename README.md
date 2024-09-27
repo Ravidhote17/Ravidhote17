@@ -21,7 +21,7 @@
 
 ## 🚀 Badges:
 <a href="https://www.holopin.io/@ravidhote17#badges">
-  <img  alt="hacktoberfest2024" src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" style="width: 8%; height: 10%;">
+  <img  alt="hacktoberfest2024" src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" style="width: 10%; height: 12%;">
 </a>
 
 
